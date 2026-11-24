@@ -1,0 +1,5 @@
+Compile command: g++ -std=c++17 -Wall -Wextra Task06_Q6_TextRuleOfThree.cpp -o Task06.exe
+Exit code: 0
+
+Compiler output:
+

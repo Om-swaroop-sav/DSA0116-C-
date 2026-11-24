@@ -1,0 +1,5 @@
+Compile command: g++ -std=c++17 -Wall -Wextra Task07_Q7_ComplexImpedance.cpp -o Task07.exe
+Exit code: 0
+
+Compiler output:
+

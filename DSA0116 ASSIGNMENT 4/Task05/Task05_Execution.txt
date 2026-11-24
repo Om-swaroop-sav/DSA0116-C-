@@ -1,0 +1,6 @@
+Exit code: 0
+
+Dynamic cart total: 162.00
+Expected chained-cart output: 324.00
+Highest active cart total: 52250.00
+Direct/reference cart total: 150.00

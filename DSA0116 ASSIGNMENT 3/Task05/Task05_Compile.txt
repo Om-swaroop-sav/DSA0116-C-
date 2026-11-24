@@ -1,0 +1,5 @@
+Compile command: g++ -std=c++17 -Wall -Wextra Task05_Q5_TimeAndPlaylist.cpp -o Task05.exe
+Exit code: 0
+
+Compiler output:
+

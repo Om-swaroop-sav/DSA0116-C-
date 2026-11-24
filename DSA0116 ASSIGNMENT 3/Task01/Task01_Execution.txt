@@ -1,0 +1,10 @@
+Run command: .\Task01.exe
+Exit code: 0
+
+Output captured during independent verification (timings can vary by computer):
+Title: Untitled | Author: Unknown | Copies: 0
+Title: The Alchemist | Author: Unknown | Copies: 1
+Title: Wings of Fire | Author: A. P. J. Abdul Kalam | Copies: 5
+Rejected invalid book: number of copies cannot be negative
+
+Stderr:

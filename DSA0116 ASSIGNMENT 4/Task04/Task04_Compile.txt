@@ -1,0 +1,3 @@
+Command: g++ -std=c++17 -Wall -Wextra Task04_Task4_PolymorphicAccounts.cpp -o Task04.exe
+Exit code: 0
+

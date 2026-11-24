@@ -1,0 +1,26 @@
+Run command: .\Task03.exe
+Exit code: 0
+
+Output captured during independent verification (timings can vary by computer):
+Created event: College Fest
+College Fest seat map:
+O O O 
+O O X 
+Closed event: College Fest | seats booked: 1
+Created event: Online Event
+Online Event seat map:
+Closed event: Online Event | seats booked: 0
+Created event: Workshop
+Closed event: Workshop | seats booked: 1
+Created event: Memory test
+Approximate seat-map bytes for 10x20: 280
+Closed event: Memory test | seats booked: 0
+Created event: Memory test
+Approximate seat-map bytes for 100x200: 20800
+Closed event: Memory test | seats booked: 0
+Created event: Memory test
+Approximate seat-map bytes for 1000x2000: 2008000
+Closed event: Memory test | seats booked: 0
++A +B -B copyAc use -Ac +P -P end
+-A 
+Stderr:

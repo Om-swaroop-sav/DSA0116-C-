@@ -1,0 +1,3 @@
+Command: g++ -std=c++17 -Wall -Wextra Task03_Task3_ConstructionOrderAndAddress.cpp -o Task03.exe
+Exit code: 0
+

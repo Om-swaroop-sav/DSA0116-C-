@@ -1,0 +1,7 @@
+Exit code: 0
+
+Bicycle TN01-BI-101 | daily charge Rs 100 | rent accepted | return total Rs 100
+Two-wheeler TN01-TW-202 | daily charge Rs 450 | rent accepted | return total Rs 900
+Car TN01-CAR-303 | daily charge Rs 1500 | seats 5 | fuel/charge level 60 | service due 2027-04-15 | rent accepted | return total Rs 4600
+Electric car TN01-EV-404 | daily charge Rs 1862 | battery 60 kWh | charged per kWh | rent accepted | return total Rs 7448
+Electric bus TN01-EB-505 | daily charge Rs 1840 | passenger capacity 30 | electric consumption 80 kWh/day | rent accepted | return total Rs 9200

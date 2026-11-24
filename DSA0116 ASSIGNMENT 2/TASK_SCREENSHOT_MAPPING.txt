@@ -1,0 +1,34 @@
+Task 01: Q1 - Call by Value, by Reference and by Pointer
+  Source file: Task01/Task01_Q1_CallByValueReferencePointer.cpp
+  Screenshot: Task01/Task01_Output.png
+  Output log: Task01/Task01_Execution.txt
+
+Task 02: Q2 - Return by Reference and Its Dangers
+  Source file: Task02/Task02_Q2_ReturnByReference.cpp
+  Screenshot: Task02/Task02_Output.png
+  Output log: Task02/Task02_Execution.txt
+
+Task 03: Q3 - Default Arguments and Function Overloading
+  Source file: Task03/Task03_Q3_DefaultArgumentsOverloading.cpp
+  Screenshot: Task03/Task03_Output.png
+  Output log: Task03/Task03_Execution.txt
+
+Task 04: Q4 - Specifying a Class with an Array Inside It
+  Source file: Task04/Task04_Q4_SavingsAccount.cpp
+  Screenshot: Task04/Task04_Output.png
+  Output log: Task04/Task04_Execution.txt
+
+Task 05: Q5 - Static Members and Arrays of Objects
+  Source file: Task05/Task05_Q5_StaticMembersBusTicket.cpp
+  Screenshot: Task05/Task05_Output.png
+  Output log: Task05/Task05_Execution.txt
+
+Task 06: Q6 - Friend Functions and Inline Functions
+  Source file: Task06/Task06_Q6_FriendInlineTime.cpp
+  Screenshot: Task06/Task06_Output.png
+  Output log: Task06/Task06_Execution.txt
+
+Task 07: Q7 - Diagnose, Redesign and Validate
+  Source file: Task07/Task07_Q7_RedesignCircularHistory.cpp
+  Screenshot: Task07/Task07_Output.png
+  Output log: Task07/Task07_Execution.txt

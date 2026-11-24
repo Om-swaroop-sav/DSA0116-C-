@@ -1,0 +1,12 @@
+Q7 - Diagnose, Redesign and Validate
+====================================
+Compile command: g++ -std=c++17 -Wall -Wextra Task07_Q7_RedesignCircularHistory.cpp -o Task07.exe
+Run status: ran
+
+Program output:
+Original shifting history latest: 1999999
+Redesigned circular history latest: 1999999
+Insertions: 2000000
+Timing (ms): shifting=391, circular=7
+
+[Program exit code: 0]

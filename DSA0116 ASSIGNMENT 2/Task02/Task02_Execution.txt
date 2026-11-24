@@ -1,0 +1,13 @@
+Q2 - Return by Reference and Its Dangers
+========================================
+Compile command: g++ -std=c++17 -Wall -Wextra Task02_Q2_ReturnByReference.cpp -o Task02.exe
+Run status: ran
+
+Program output:
+Original highest mark: 97
+After moderation (+2): 99
+Const reference: 99, returned copy: 99
+Highest mark by index: 96
+After vector growth, indexed value: 96
+
+[Program exit code: 0]

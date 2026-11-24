@@ -1,0 +1,5 @@
+Compile command: g++ -std=c++17 -Wall -Wextra Task01_Q1_ConstructorsBook.cpp -o Task01.exe
+Exit code: 0
+
+Compiler output:
+

@@ -1,0 +1,13 @@
+Run command: .\Task02.exe
+Exit code: 0
+
+Output captured during independent verification (timings can vary by computer):
+[deep copy] Ibuprofen ORS | Paracetamol Cetirizine | Paracetamol ORS
+[deep copy] value parameter: Ibuprofen
+const reference parameter: Ibuprofen
+Deep-copy operations counted: 3
+[deep copy] Copied 10 medicines in 0 microseconds
+[deep copy] Copied 1000 medicines in 21 microseconds
+[deep copy] Copied 100000 medicines in 9200 microseconds
+
+Stderr:

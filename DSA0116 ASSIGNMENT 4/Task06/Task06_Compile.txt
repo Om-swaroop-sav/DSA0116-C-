@@ -1,0 +1,3 @@
+Command: g++ -std=c++17 -Wall -Wextra Task06_Task6_VehicleRentalFleet.cpp -o Task06.exe
+Exit code: 0
+

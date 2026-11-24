@@ -1,0 +1,3 @@
+Command: g++ -std=c++17 -Wall -Wextra Task02_Task2_VirtualInheritance.cpp -o Task02.exe
+Exit code: 0
+

@@ -1,0 +1,17 @@
+Q5 - Static Members and Arrays of Objects
+=========================================
+Compile command: g++ -std=c++17 -Wall -Wextra Task05_Q5_StaticMembersBusTicket.cpp -o Task05.exe
+Run status: ran
+
+Program output:
+Token prediction program: 101 103 104 4
+Asha: Seat 1
+Bala: Seat 2
+Chitra: Seat 3
+Dev: Waiting
+Issued: 3
+Esha: Waiting
+Farhan: Waiting
+Issued after second function call: 3
+
+[Program exit code: 0]

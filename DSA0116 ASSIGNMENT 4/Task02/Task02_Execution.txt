@@ -1,0 +1,5 @@
+Exit code: 0
+
+Person Student Staff TA
+Kavya | 192311001 | 9876543210 | CSE-AI | CGPA 8.7 | CSE | salary 18000
+Person Student Arun | programme AI Research | fellowship Rs 15000

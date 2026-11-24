@@ -1,0 +1,13 @@
+Run command: .\Task04.exe
+Exit code: 0
+
+Output captured during independent verification (timings can vary by computer):
+Rs 200.00
+true
+Paise carry: Rs 1.25
+Negative result: -Rs 2.50
+After += : Rs 122.00 | a < b: false
+Stream input (rupees paise): Rs 25.50
+1,000,000 additions: Money=3 ms, double=2 ms | exact Rs 10000.00 | double 10000
+
+Stderr:

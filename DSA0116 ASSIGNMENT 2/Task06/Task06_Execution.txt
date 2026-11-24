@@ -1,0 +1,12 @@
+Q6 - Friend Functions and Inline Functions
+==========================================
+Compile command: g++ -std=c++17 -Wall -Wextra Task06_Q6_FriendInlineTime.cpp -o Task06.exe
+Run status: ran
+
+Program output:
+Complete-the-code output: 205 false
+Same time: 0 | before noon check: true
+10,000,000-call timing (ms): inline=46, noinline=58
+Checksums: 2975000000 2975000000
+
+[Program exit code: 0]

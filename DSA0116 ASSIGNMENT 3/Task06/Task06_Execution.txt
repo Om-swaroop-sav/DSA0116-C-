@@ -1,0 +1,12 @@
+Run command: .\Task06.exe
+Exit code: 0
+
+Output captured during independent verification (timings can vary by computer):
+Concatenated: Hello World
+Equality: true | inequality: true
+Empty message: []
+Copies observed: 2
+Lengths: custom=100001, std::string=100001
+100,000 appends (ms): custom=142, std::string=0
+
+Stderr:

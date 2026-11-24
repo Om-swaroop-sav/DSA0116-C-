@@ -1,0 +1,21 @@
+Q1 - Call by Value, by Reference and by Pointer
+===============================================
+Compile command: g++ -std=c++17 -Wall -Wextra Task01_Q1_CallByValueReferencePointer.cpp -o Task01.exe
+Run status: ran
+
+Program output:
+Hostel fee examples
+by value    : 45000
+by reference: 40500
+by pointer  : 40500
+
+Complete-the-code example
+after call by value   : 45000
+after call by reference: 40500
+
+Predict-the-output example
+1 12 13
+1 100
+16 13 6 
+
+[Program exit code: 0]

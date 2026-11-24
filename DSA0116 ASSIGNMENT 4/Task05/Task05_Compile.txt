@@ -1,0 +1,3 @@
+Command: g++ -std=c++17 -Wall -Wextra Task05_Task5_CartThisPointer.cpp -o Task05.exe
+Exit code: 0
+

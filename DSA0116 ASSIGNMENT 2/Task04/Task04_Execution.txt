@@ -1,0 +1,20 @@
+Q4 - Specifying a Class with an Array Inside It
+===============================================
+Compile command: g++ -std=c++17 -Wall -Wextra Task04_Q4_SavingsAccount.cpp -o Task04.exe
+Run status: ran
+
+Program output:
+Mini-statement for account 202611001
+Deposit            amount=   10.00 balance=5460.00
+Deposit            amount=   20.00 balance=5480.00
+Deposit            amount=   30.00 balance=5510.00
+Deposit            amount=   40.00 balance=5550.00
+Deposit            amount=   50.00 balance=5600.00
+Deposit            amount=   60.00 balance=5660.00
+Deposit            amount=   70.00 balance=5730.00
+Deposit            amount=   80.00 balance=5810.00
+Deposit            amount=   90.00 balance=5900.00
+Deposit            amount=  100.00 balance=6000.00
+Current balance: 6000.00
+
+[Program exit code: 0]

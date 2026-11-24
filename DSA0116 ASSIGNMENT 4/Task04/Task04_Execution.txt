@@ -1,0 +1,14 @@
+Exit code: 0
+
+Non-virtual rate: 3.5
+Virtual rate: 4
+Sliced copy virtual rate: 3.5
+Account rate: 3.5
+Account rate: 4
+Accounts will be released automatically by unique_ptr.
+Account destroyed
+SeniorAccount history released
+Account destroyed
+Account destroyed
+SeniorAccount history released
+Account destroyed

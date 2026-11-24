@@ -1,0 +1,5 @@
+Compile command: g++ -std=c++17 -Wall -Wextra Task03_Q3_DynamicSeatMap.cpp -o Task03.exe
+Exit code: 0
+
+Compiler output:
+

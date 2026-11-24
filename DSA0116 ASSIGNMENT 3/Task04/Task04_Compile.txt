@@ -1,0 +1,5 @@
+Compile command: g++ -std=c++17 -Wall -Wextra Task04_Q4_MoneyOperatorOverloading.cpp -o Task04.exe
+Exit code: 0
+
+Compiler output:
+

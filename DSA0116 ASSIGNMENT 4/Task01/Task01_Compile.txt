@@ -1,0 +1,3 @@
+Command: g++ -std=c++17 -Wall -Wextra Task01_Task1_StaffHierarchy.cpp -o Task01.exe
+Exit code: 0
+
