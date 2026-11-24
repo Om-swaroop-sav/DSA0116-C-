@@ -1,0 +1,7 @@
+Exit code: 0
+
+OP Ravi total=1700 | self=1700 | corporate=1487.5
+IP Meena total=47500 | self=47500 | corporate=41562.5
+AMBULANCE Asha total=1130 | self=1130 | corporate=988.75
+Total bill amount: 50330
+Caught expected billing exception: negative charge

@@ -1,0 +1,3 @@
+Command: g++ -std=c++17 -Wall -Wextra PartA_TaskA2_PredictOutput.cpp -o Task01_PartA_TaskA2_PredictOutput.exe
+Exit code: 0
+

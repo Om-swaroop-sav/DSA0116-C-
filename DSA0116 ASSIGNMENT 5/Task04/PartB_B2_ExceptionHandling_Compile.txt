@@ -1,0 +1,3 @@
+Command: g++ -std=c++17 -Wall -Wextra PartB_B2_ExceptionHandling.cpp -o Task04_PartB_B2_ExceptionHandling.exe
+Exit code: 0
+

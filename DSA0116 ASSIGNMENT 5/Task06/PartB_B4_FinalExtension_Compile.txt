@@ -1,0 +1,3 @@
+Command: g++ -std=c++17 -Wall -Wextra PartB_B4_FinalExtension.cpp -o Task06_PartB_B4_FinalExtension.exe
+Exit code: 0
+

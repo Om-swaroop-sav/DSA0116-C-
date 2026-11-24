@@ -1,0 +1,5 @@
+Exit code: 0
+
+OP Ravi: 1700
+IP Meena: 47500
+Total 49200

@@ -1,0 +1,13 @@
+Exit code: 0
+
+negative charge: negative charge
+missing patient: missing patient record
+claim rejected: claim exceeds cover
+package error: unknown package code
+conversion error: stod
+allocation failure caught: std::bad_array_new_length
+acquired temporary billing resource
+logged conversion error: stod
+released temporary billing resource
+top-level catch(...) recovered; execution continues
+Program remains active after handled errors.

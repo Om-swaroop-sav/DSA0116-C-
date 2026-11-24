@@ -1,0 +1,9 @@
+Exit code: 0
+
+10-bill correctness: virtual=246000, switch=246000
+1000 bills | virtual=0 ms | switch=0 ms | variant=0 ms | checksum=7.38e+07
+1000000 bills | virtual=3 ms | switch=3 ms | variant=36 ms | checksum=7.38e+10
+10000000 bills | virtual=32 ms | switch=36 ms | variant=385 ms | checksum=7.38e+11
+Validation invalid=0% | return-code=8 ms | exceptions=7 ms | accepted=1000000/1000000
+Validation invalid=1% | return-code=8 ms | exceptions=18 ms | accepted=990000/990000
+Validation invalid=50% | return-code=7 ms | exceptions=570 ms | accepted=500000/500000

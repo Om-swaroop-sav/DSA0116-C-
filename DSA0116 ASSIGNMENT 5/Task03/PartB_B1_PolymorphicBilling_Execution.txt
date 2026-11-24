@@ -1,0 +1,19 @@
+Exit code: 0
+
+OP Ravi | bill Rs 1700.00
+  SelfPay covers Rs 1700.00
+  Insurance covers Rs 1530.00
+  GovernmentScheme covers Rs 1500.00
+IP Meena | bill Rs 47500.00
+  SelfPay covers Rs 47500.00
+  Insurance covers Rs 42750.00
+  GovernmentScheme covers Rs 40000.00
+DAYCARE Asha | bill Rs 22000.00
+  SelfPay covers Rs 22000.00
+  Insurance covers Rs 19800.00
+  GovernmentScheme covers Rs 22000.00
+EMERGENCY Bala | bill Rs 6500.00
+  SelfPay covers Rs 6500.00
+  Insurance covers Rs 5850.00
+  GovernmentScheme covers Rs 6500.00
+Hospital billed total: Rs 77700.00

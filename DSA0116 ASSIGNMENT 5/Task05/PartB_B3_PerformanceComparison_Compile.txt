@@ -1,0 +1,3 @@
+Command: g++ -std=c++17 -Wall -Wextra PartB_B3_PerformanceComparison.cpp -o Task05_PartB_B3_PerformanceComparison.exe
+Exit code: 0
+

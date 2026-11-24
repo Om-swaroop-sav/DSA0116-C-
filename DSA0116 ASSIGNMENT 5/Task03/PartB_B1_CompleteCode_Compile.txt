@@ -1,0 +1,3 @@
+Command: g++ -std=c++17 -Wall -Wextra PartB_B1_CompleteCode.cpp -o Task03_PartB_B1_CompleteCode.exe
+Exit code: 0
+
